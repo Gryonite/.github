@@ -39,7 +39,10 @@ Gryonite is a team of people that makes utility apps to enhance your online expe
 
 
 # Gryonites apps
-[Gryonite Browser](#Add URL Here When Finished)
-[GryOS](#Add Url Here When Finished)
-[Gryonite Coding Language](#Add Url Here When Finished)
-[Gryonite Music Player](#Add Url Here When Finished)
+* [Gryonite Browser](#Add URL Here When Finished)
+
+* [GryOS](#Add Url Here When Finished)
+
+* [Gryonite Coding Language](#Add Url Here When Finished)
+
+* [Gryonite Music Player](#Add Url Here When Finished)
