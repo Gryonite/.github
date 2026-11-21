@@ -14,35 +14,4 @@
 
 </div>
 
-* [Who we are](#Whoweare)
-  * [The future of Gryonite](#Gryonitesfuture)
-  * [Gryonite's apps](#apps)
-  * [Documentation](#documentation)
-  * 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-# Who we are
-
-Gryonite is a team of people that makes utility apps to enhance your online experience, coming down to simple apps to apps that can be used everyday.
-
-
-
-# Gryonites apps
-* [Gryonite Browser](#Add URL Here When Finished)
-
-* [GryOS](#Add Url Here When Finished)
-
-* [Gryonite Coding Language](#Add Url Here When Finished)
-
-* [Gryonite Music Player](#Add Url Here When Finished)
+Gryonite is a team that focuses on your online experience to make it as good as possible. We make stuff that can be used everyday and is useful. We make sure that our stuff runs smooth and good. Like our work? Feel free to donate to us to help us out.
