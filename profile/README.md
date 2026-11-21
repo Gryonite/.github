@@ -15,3 +15,9 @@
 </div>
 
 Gryonite is a team that focuses on your online experience to make it as good as possible. We make stuff that can be used everyday and is useful. We make sure that our stuff runs smooth and good. Like our work? Feel free to donate to us to help us out.
+
+
+# Repos
+### Gryonite Browser - Gryonites custom browser made to make you feel safe.
+### GryoniteMusicPlayer - Gryonites custom song player.
+### GryoCode - Gryonites coding language that is easy to use.
