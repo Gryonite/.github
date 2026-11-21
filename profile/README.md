@@ -6,7 +6,7 @@
 
 <img width="550" height="550" alt="image" src="Gryonite_logo.png" />
 
-(gryonite.github.io/Gryonite/)
+(https://bit.ly/Gryonite)
 
 </div>
 
