@@ -4,7 +4,7 @@
 
 <div align = "center">
 
-<img width="850" height="850" alt="image" src="Gryonite_logo.png" />
+<img width="550" height="550" alt="image" src="Gryonite_logo.png" />
 
 (#add homepage URL here when finished)
 
