@@ -1,6 +1,6 @@
 <div align = "center">
 
-# Gryonite
+## Gryonite
 A team that makes utility apps.
 
 </div>
