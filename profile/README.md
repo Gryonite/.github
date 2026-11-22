@@ -6,7 +6,7 @@
 
 <img width="550" height="550" alt="GryoniteLogo" src="GryoniteLogo.png"/>
 
-![GryoniteWebsite](https://bit.ly/Gryonite)
+(https://bit.ly/Gryonite)
 
 </div>
 
