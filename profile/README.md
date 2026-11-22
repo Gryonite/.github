@@ -35,5 +35,8 @@ This does not automatically mean the software is unsafe. Please make sure you're
 
 
 
-# The future of Gryonite
+# Gryonites Socials
+
+![Discord Server](https://img.shields.io/badge/Discord_Server-blue?style=for-the-badge&logo=Discord&logoColor=white&color=blue)
+
 
