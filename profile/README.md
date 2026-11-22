@@ -37,6 +37,6 @@ This does not automatically mean the software is unsafe. Please make sure you're
 
 # Gryonites Socials
 
-![https://discord.gg](https://img.shields.io/badge/Discord_Server-blue?style=for-the-badge&logo=Discord&logoColor=white&color=blue)
+![https://discord.gg/cuQ2X8frTU](https://img.shields.io/badge/Discord_Server-blue?style=for-the-badge&logo=Discord&logoColor=white&color=blue)
 
 
