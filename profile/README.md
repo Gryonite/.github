@@ -16,8 +16,15 @@
 
 Gryonite is a team that focuses on your online experience to make it as good as possible. We make stuff that can be used everyday and is useful. We make sure that our stuff runs smooth and good. Like our work? Feel free to donate to us to help us out. Not everything will be coded in the same language so keep that in mind.
 
+### **Windows Security Notice**
 
-# Repos
+When downloading or installing Gryonite software, Windows SmartScreen may display a warning because our applications are not yet widely recognized by Microsoft.
+
+This does not automatically mean the software is unsafe. Please make sure you're downloading Gryonite software from our official website or GitHub repositories.
+
+# Our Repositories
 ### Gryonite Browser - Gryonites custom browser made to make you feel safe.
 ### GryoniteMusicPlayer - Gryonites custom song player.
 ### GryoCode - Gryonites coding language that is easy to use.
+
+### Gryonite - Our websites repository.
