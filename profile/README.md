@@ -23,8 +23,17 @@ When downloading or installing Gryonite software, Windows SmartScreen may displa
 This does not automatically mean the software is unsafe. Please make sure you're downloading Gryonite software from our official website or GitHub repositories.
 
 # Our Repositories
+
 ### Gryonite Browser - Gryonites custom browser made to make you feel safe.
+
 ### GryoniteMusicPlayer - Gryonites custom song player.
+
 ### GryoCode - Gryonites coding language that is easy to use.
 
 ### Gryonite - Our websites repository.
+
+
+
+
+# The future of Gryonite
+
