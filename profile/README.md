@@ -14,7 +14,7 @@
 
 </div>
 
-Gryonite is a team that focuses on your online experience to make it as good as possible. We make stuff that can be used everyday and is useful. We make sure that our stuff runs smooth and good. Like our work? Feel free to donate to us to help us out.
+Gryonite is a team that focuses on your online experience to make it as good as possible. We make stuff that can be used everyday and is useful. We make sure that our stuff runs smooth and good. Like our work? Feel free to donate to us to help us out. Not everything will be coded in the same language so keep that in mind.
 
 
 # Repos
