@@ -1,6 +1,6 @@
 <div align = "center">
 
-#Gryonite
+# Gryonite
 
 <div align = "center">
 
