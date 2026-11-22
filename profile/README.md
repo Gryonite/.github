@@ -1,8 +1,6 @@
 <div align = "center">
 
-# <img src="GryoniteLogoNew.ico" width="56" height="56" alt="icon"> Gryonite
-
-
+#Gryonite
 
 <div align = "center">
 
