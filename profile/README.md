@@ -4,7 +4,7 @@
 
 <div align = "center">
 
-<img width="550" height="550" alt="GryoniteLogo" src="GryoLogo.png"/>
+<img width="550" height="550" alt="GryoniteLogo" src="GryoniteLogo.png"/>
 
 (https://bit.ly/Gryonite)
 
