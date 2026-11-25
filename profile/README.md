@@ -30,7 +30,9 @@ This does not automatically mean the software is unsafe. Please make sure you're
 
 ### GryoCode - Gryonites coding language that is easy to use.
 
-### Gryonite - Our websites repository.
+### Gryonite - Our website.
+
+### yt-Gryo - Gryonties Video Downloader.
 
 
 
